@@ -1,0 +1,10 @@
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\bin\Debug\Ado.NetWinFormSdelki.exe.config
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\bin\Debug\Ado.NetWinFormSdelki.exe
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\bin\Debug\Ado.NetWinFormSdelki.pdb
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.csprojResolveAssemblyReference.cache
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.Form1.resources
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.Properties.Resources.resources
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.csproj.GenerateResource.Cache
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.csproj.CoreCompileInputs.cache
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.exe
+C:\Users\anuar\source\repos\Ado.NetWinFormSdelki\Ado.NetWinFormSdelki\obj\Debug\Ado.NetWinFormSdelki.pdb
